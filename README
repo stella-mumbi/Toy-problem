@@ -1,0 +1,22 @@
+## Usage
+
+1. Open the `index.html` file in a web browser.
+2. Click the "Calculate Net Salary" button.
+3. Enter the basic salary and benefits when prompted.
+4. View the calculated payee (Tax), NHIF Deductions, NSSF Deductions, gross salary, and net salary in the browser console.
+
+## Program Details
+
+- The program uses constant values for tax rates (PAYE, NHIF, NSSF) as provided.
+- It prompts the user for basic salary and benefits using the `prompt` function.
+- Calculations are performed based on the entered values and displayed in the browser console.
+
+## Important Links
+
+- [KRA Tax Rates](https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye)
+- [NHIF Deductions](https://www.aren.co.ke/payroll/taxrates.htm)
+- [NSSF Deductions](https://www.aren.co.ke/payroll/taxrates.htm)
+
+## Note
+
+This is a basic example and may need to be adapted based on the specific tax rules and regulations applicable to your region or country.

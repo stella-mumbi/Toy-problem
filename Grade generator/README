@@ -1,0 +1,21 @@
+
+The program prompts the user to input student marks (between 0 and 100) and calculates the corresponding grade based on the specified criteria. The result is displayed using JavaScript alerts.
+
+## Files
+
+- **index.html**: Contains the HTML structure for the student grade calculator. Links to the JavaScript file and the external CSS file.
+
+- **index.js**: Contains the JavaScript code for calculating and displaying the student grade.
+
+- **index.css**: External CSS file with styles for the HTML elements.
+
+## Usage
+
+1. Open the `index.html` file in a web browser.
+2. The program will prompt you to enter student marks.
+3. Enter a valid number between 0 and 100 and press OK.
+4. The program will display an alert with the calculated student grade.
+
+## Styling
+
+Styling is applied through the `index.css` file.
